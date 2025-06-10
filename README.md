@@ -7,13 +7,13 @@
 
 ---
 
-### 👩‍💻 A little about me
+### 👩‍💻 About me
 
 - 🎓 I’m currently pursuing **Computer Science and Engineering**
 - 💡 I’m passionate about **problem-solving, software development, and learning new ideas**
 - 🌱 I’m currently learning **data structures, algorithms, and web development**
 - 🤝 I love **collaborating on tech projects**
-- 📫 Reach me out at: **shreya.claris@gmail.com**
+- 📫 Reach me at: **shreya.claris@gmail.com**
 
 ---
 
