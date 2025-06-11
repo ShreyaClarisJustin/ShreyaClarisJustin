@@ -7,7 +7,7 @@
 
 ---
 # 💫 About Me:
-- 🎓 I’m currently pursuing **Computer Science and Engineering**<br>- 💡 I’m passionate about **problem-solving, software development, and learning new ideas**<br>- 🌱 I’m currently learning **data structures, algorithms, and web development**<br>- 🤝 I love **collaborating on tech projects**<br>- 📫 Reach me at: **shreya.claris@gmail.com**<br>
+🎓 I’m currently pursuing **Computer Science and Engineering**<br>💡 I’m passionate about **problem-solving, software development, and learning new ideas**<br>🌱 I’m currently learning **data structures, algorithms, and web development**<br>🤝 I love **collaborating on tech projects**<br>📫 Reach me at: **shreya.claris@gmail.com**<br>
 
 
 ## 🌐 Socials:
